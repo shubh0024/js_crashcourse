@@ -12,7 +12,7 @@ console.log(valueInNumber) //not in number
 //"322add"=> naN
 //true=>1
 //false=>0
-
+//
 
 let isLoggedIn="1"
 let booleanIsloggedIn=Boolean(isLoggedIn)

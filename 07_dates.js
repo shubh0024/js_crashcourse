@@ -8,6 +8,7 @@ console.log(typeof myDate);
 
 let myCreatedDate= new Date(2023,0,23)
 console.log(myCreatedDate.toISOString());
+//
 
 let mytimeStamp= Date.now()
 

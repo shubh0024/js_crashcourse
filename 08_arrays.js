@@ -37,7 +37,7 @@ console.log(real_another_array);
 
 console.log(Array.from("Shubham")) //convert into array
 console.log(Array.from({name:"shubham"})) //interesting
-
+//
 let score1=200
 let score2=389
 let score3=322

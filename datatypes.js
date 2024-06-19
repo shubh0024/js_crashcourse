@@ -21,3 +21,4 @@ console.log(typeof "sdjkfh")
 console.log(typeof null)
 
 console.log(typeof undefined)
+//
